@@ -1,8 +1,11 @@
 # Steve Murphy Content Portfolio
 
-<div style="padding:16px; border:1px solid #d0d7de; border-radius:8px;">
-  <strong>For the best viewing experience, please visit:</strong><br/>
-  <a href="https://steve-o-murphy2.github.io/content-portfolio/">
-    Content Profile
-  </a>
-</div>
+This repository contains source files and examples from my technical writing portfolio.
+
+## View the Portfolio
+
+**[Steve Murphy Content Portfolio](https://steve-o-murphy2.github.io/content-portfolio/)**
+
+The GitHub Pages site provides the intended portfolio experience, including
+API documentation, SDK documentation, tutorials, how-to content, and other
+technical writing samples.
